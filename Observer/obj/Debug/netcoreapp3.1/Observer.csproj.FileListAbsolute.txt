@@ -1,0 +1,11 @@
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Observer\Observer\obj\Debug\netcoreapp3.1\Observer.csprojAssemblyReference.cache
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Observer\Observer\obj\Debug\netcoreapp3.1\Observer.AssemblyInfoInputs.cache
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Observer\Observer\obj\Debug\netcoreapp3.1\Observer.AssemblyInfo.cs
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Observer\Observer\bin\Debug\netcoreapp3.1\Observer.exe
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Observer\Observer\bin\Debug\netcoreapp3.1\Observer.deps.json
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Observer\Observer\bin\Debug\netcoreapp3.1\Observer.runtimeconfig.json
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Observer\Observer\bin\Debug\netcoreapp3.1\Observer.runtimeconfig.dev.json
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Observer\Observer\bin\Debug\netcoreapp3.1\Observer.dll
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Observer\Observer\bin\Debug\netcoreapp3.1\Observer.pdb
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Observer\Observer\obj\Debug\netcoreapp3.1\Observer.dll
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Observer\Observer\obj\Debug\netcoreapp3.1\Observer.pdb
